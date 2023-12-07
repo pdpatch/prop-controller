@@ -1,0 +1,14 @@
+{
+  "name": "DFRobotDFPlayerMini",
+  "keywords": "DFPlayer, MP3, Arduino",
+  "description": "Driver for DFPlayer Mini from DFRobot.",
+  "homepage": "https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "1.0.6",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+
